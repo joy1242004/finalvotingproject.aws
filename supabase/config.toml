@@ -1,0 +1,7 @@
+project_id = "cxijxxqqellvxqdtpgui"
+
+[functions.send-vote-confirmation]
+verify_jwt = false
+
+[functions.send-login-alert]
+verify_jwt = false
