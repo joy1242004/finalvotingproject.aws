@@ -146,7 +146,7 @@ This project is part of research on **Blockchain-based Digital Voting Systems** 
 
 ## 👨‍💻 Author
 
-**Abdul Rahman**  
+**Mayank Tiwari**  
 ACS College of Engineering  
 Bangalore, India
 
